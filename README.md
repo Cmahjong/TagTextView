@@ -1,6 +1,20 @@
 # TagTextView
 文字前面含有标签的TextView
 
+## 导入方法 [![](https://jitpack.io/v/yinjinyj/TagTextView.svg)](https://jitpack.io/#yinjinyj/TagTextView)
+
+
+    allprojects {
+    		repositories {
+    			...
+    			maven { url 'https://jitpack.io' }
+    		}
+    	}
+    	
+    dependencies {
+    	        implementation 'com.github.yinjinyj:TagTextView:Tag'
+    	}
+
 ## 使用方法
 
 ~~~kotlin
