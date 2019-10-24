@@ -15,6 +15,10 @@
     	        implementation 'com.github.yinjinyj:TagTextView:Tag'
     	}
 
+## 样式
+
+![](img/img1.png)
+
 ## 使用方法
 
 ~~~kotlin
@@ -38,3 +42,4 @@
      
 
 ~~~
+
